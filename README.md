@@ -7,6 +7,9 @@ Daha önceden olştrulmuş bir listenin elemanları sırayla küçükten büyü�
 # Kullanım
 Algoritmanın çalışabilmesi için Python programlama dilinin çalışabileceği program(ların) yüklü olması gereklidir.
 
+# Varyasyon
+Aynı algoritmayı C dili ile kodladım. İncelemek isterseniz: https://github.com/BaranKanatcomtr/diziyi-kucukten-buyuge-dogru-siralama-c-dili
+
 # İletişim
 Benimle iletişme geçmek isterseniz www.barankanat.com.tr adresini ziyaret edebilirsiniz.                          
 Twitter: https://twitter.com/Baran_Knt                          
